@@ -12,7 +12,9 @@ Amaç: Bu ders,
 
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
-2. Hafta - 
+2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
+
+
 
 ## KAYNAKLAR
 
