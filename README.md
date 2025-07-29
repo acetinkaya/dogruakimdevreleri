@@ -8,6 +8,11 @@ Amaç: Bu ders,
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
+## HAFTALIK DERS KONULARI
+
+1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
+
+
 
 ## KAYNAKLAR
 
