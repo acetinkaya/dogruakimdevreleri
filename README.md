@@ -36,6 +36,8 @@ Amaç: Bu ders,
 
 13. Hafta - Bağımsız Kaynaklı RL, RC, RLC Devreler
 
+14. Hafta - Sabit Kaynaklı RL, RC, RLC Devreler
+
 
 
 ## KAYNAKLAR
