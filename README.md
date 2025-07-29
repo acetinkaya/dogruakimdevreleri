@@ -8,7 +8,7 @@ Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru 
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
-* Temel Elektriksel Kavramları Anlama: 
+* Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, 
 
 ## HAFTALIK DERS KONULARI
 
