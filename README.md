@@ -8,4 +8,7 @@ Amaç: Bu ders,
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
-## Dersin Verildiği Dönem 
+## Dersin Verildiği Dönem ve Bilgiler
+
+2024 - 2025 Yaz Dönemi 
+
