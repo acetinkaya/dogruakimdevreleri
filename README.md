@@ -17,7 +17,7 @@ Dr. Murat Ceylan, "Doğru Akım Devreleri - Doğru Akım Devre Analizi", Seçkin
 
 Öğr. Gör. Ali Çetinkaya’nın internet sayfaları: 
     * https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
-
+    * https://avesis.gelisim.edu.tr/alcetinkaya 
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
