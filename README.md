@@ -24,8 +24,10 @@ Amaç: Bu ders,
 
 7. Hafta - Kirşofun Akım ve Gerilim Yasaları
 
+8. Hafta - Vize Sınavı Haftası
 
 
+16. 
 ## KAYNAKLAR
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
