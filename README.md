@@ -38,7 +38,7 @@ Amaç: Bu ders,
 
 14. Hafta - Sabit Kaynaklı RL, RC, RLC Devreler
 
-
+15. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
