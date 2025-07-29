@@ -6,4 +6,4 @@ Amaç: Bu ders,
 
 İçerik:  
 
-## DERSİN 
+## DERSİN ÖĞRENME ÇIKTILARI
