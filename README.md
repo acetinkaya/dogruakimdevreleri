@@ -18,6 +18,8 @@ Amaç: Bu ders,
 
 4. Hafta - OHM Yasası, Seri Direnç Devreleri ve Uygulamaları
 
+5. Hafta - OHM Yasası, Paralel Direnç Devreleri ve Uygulamaları
+
 
 
 ## KAYNAKLAR
