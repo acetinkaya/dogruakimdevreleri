@@ -2,7 +2,7 @@
 
 ELP155-DOĞRU AKIM DEVRELERİ DERSİ İÇERİĞİ
 
-Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru akım elektrik devrelerinin çözümlerini yaparak 
+Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru akım elektrik devrelerinin çözümlerini yaparak yeterliklerin kazandırılması amaçlanmaktadır.
 
 
 İçerik:  
