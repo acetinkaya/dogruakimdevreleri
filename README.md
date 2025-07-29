@@ -32,7 +32,9 @@ Amaç: Bu ders,
 
 11. Hafta - Thevenin ve Norton Teoremleri
 
-12. Hafta - 
+12. Hafta - Kondansatörler ve Bobinler
+
+
 
 ## KAYNAKLAR
 
