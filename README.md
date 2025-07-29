@@ -26,7 +26,10 @@ Amaç: Bu ders,
 
 8. Hafta - Vize Sınavı Haftası
 
-9. Hafta - 
+9. Hafta - Yıldız ve Üçgen Devreler
+
+10. Hafta - Göz Akım Analizi
+
 
 ## KAYNAKLAR
 
