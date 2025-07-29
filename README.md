@@ -13,7 +13,9 @@ Amaç: Bu ders,
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
 
-Dr. Murat Ceylan, "Doğru Akım Devreleri - Doğru Akım Devre Analizi", 
+Dr. Murat Ceylan, "Doğru Akım Devreleri - Doğru Akım Devre Analizi", Seçkin Yayınevi, 2023.
+
+
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
