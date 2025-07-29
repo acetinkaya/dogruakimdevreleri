@@ -2,4 +2,6 @@
 
 ELP155-DOĞRU AKIM DEVRELERİ DERSİ İÇERİĞİ
 
-Amaç: 
+Amaç: Bu ders, 
+
+
