@@ -13,7 +13,7 @@ Amaç: Bu ders,
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
 
-Dr. Murat Ceylan, 
+Dr. Murat Ceylan, "Doğru Akım Devreleri - 
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
