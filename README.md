@@ -12,7 +12,7 @@ Amaç: Bu ders,
 
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
-
+2. Hafta - 
 
 ## KAYNAKLAR
 
