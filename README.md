@@ -34,6 +34,8 @@ Amaç: Bu ders,
 
 12. Hafta - Kondansatörler ve Bobinler
 
+13. Hafta - Bağımsız Kaynaklı RL, RC, RLC Devreler
+
 
 
 ## KAYNAKLAR
