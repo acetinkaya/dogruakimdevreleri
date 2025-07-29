@@ -1,2 +1,1 @@
-# dogruakimdevreleri
-ELP155-DOĞRU AKIM DEVRELERİ
+# DOĞRU AKIM 
