@@ -26,8 +26,8 @@ Amaç: Bu ders,
 
 8. Hafta - Vize Sınavı Haftası
 
+9. Hafta - 
 
-16. 
 ## KAYNAKLAR
 
 Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022.
