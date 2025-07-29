@@ -20,7 +20,7 @@ Amaç: Bu ders,
 
 5. Hafta - OHM Yasası, Paralel Direnç Devreleri ve Uygulamaları
 
-
+6. Hafta - 
 
 ## KAYNAKLAR
 
