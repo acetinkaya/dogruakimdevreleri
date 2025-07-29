@@ -10,5 +10,5 @@ Amaç: Bu ders,
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
-2024 - 2025 Yaz Dönemi 
+2024 - 2025 Yaz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu,
 
