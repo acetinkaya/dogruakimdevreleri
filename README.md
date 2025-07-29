@@ -10,4 +10,5 @@ Amaç: Bu ders,
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
-2024 - 2025 Yaz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı - 
+2024 - 2025 Yaz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı - (N.Ö. 15 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-genel-bilgiler-4-210-16530-1 
+
