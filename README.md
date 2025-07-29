@@ -14,7 +14,7 @@ Amaç: Bu ders,
 
 2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
 
-
+3. Hafta - 
 
 ## KAYNAKLAR
 
