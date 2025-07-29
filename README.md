@@ -15,9 +15,9 @@ Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", Birsen Yayınevi, 2022
 
 Dr. Murat Ceylan, "Doğru Akım Devreleri - Doğru Akım Devre Analizi", Seçkin Yayınevi, 2023.
 
-Öğr. Gör. Ali Çetinkaya’nın internet sayfaları: 
-    * https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
-    * https://avesis.gelisim.edu.tr/alcetinkaya 
+Öğr. Gör. Ali Çetinkaya’nın internet sayfaları:     
+    * https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ      
+    * https://avesis.gelisim.edu.tr/alcetinkaya      
 
 ## Dersin Verildiği Dönem ve Bilgiler
 
