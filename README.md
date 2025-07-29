@@ -8,6 +8,8 @@ Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru 
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
+* Temel Elektriksel Kavramları Anlama: 
+
 ## HAFTALIK DERS KONULARI
 
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
