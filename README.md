@@ -14,7 +14,9 @@ Amaç: Bu ders,
 
 2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
 
-3. Hafta - 
+3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
+
+
 
 ## KAYNAKLAR
 
