@@ -2,7 +2,8 @@
 
 ELP155-DOĞRU AKIM DEVRELERİ DERSİ İÇERİĞİ
 
-Amaç: Bu ders, 
+Amaç: Bu derste elektrik akımının
+
 
 İçerik:  
 
