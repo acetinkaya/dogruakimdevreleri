@@ -30,7 +30,9 @@ Amaç: Bu ders,
 
 10. Hafta - Göz Akım Analizi
 
-11. Hafta - 
+11. Hafta - Thevenin ve Norton Teoremleri
+
+
 
 ## KAYNAKLAR
 
