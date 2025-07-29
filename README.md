@@ -16,7 +16,7 @@ Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru 
   
 * Doğru akım devrelerinin çözümlerini yapar.    
 
-
+* Devrelerin çözüm yollarını hesaplar ve analiz eder.  
 
 ## HAFTALIK DERS KONULARI
 
