@@ -4,8 +4,7 @@ ELP155-DOĞRU AKIM DEVRELERİ DERSİ İÇERİĞİ
 
 Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru akım elektrik devrelerinin çözümlerini yaparak yeterliklerin kazandırılması amaçlanmaktadır.
 
-
-İçerik:  
+İçerik: Temel kavramlar, elektrik enerjisi, PWM, ADC, Duty Cycle, Güç ve Enerji, Kirşof yasaları, devre analiz yöntemleri (kol akımları, süper pozisyon, thevenin ve norton teoremleri), birinci dereceden devre çözümlerini içerir.
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
@@ -13,33 +12,33 @@ Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru 
 
 1. Hafta - Yarı İletken Teknolojisi ve Elektronik Devre Elemanları
 
-2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu, Enerji ve Güç
+2. Hafta - Akım, Gerilim, Direnç, Ohm Kanunu
 
-3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
+3. Hafta - OHM Yasası, Seri Direnç Devreleri ve Uygulamaları
 
-4. Hafta - OHM Yasası, Seri Direnç Devreleri ve Uygulamaları
+4. Hafta - OHM Yasası, Paralel Direnç Devreleri ve Uygulamaları
 
-5. Hafta - OHM Yasası, Paralel Direnç Devreleri ve Uygulamaları
+5. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
 
-6. Hafta - Güç ve Enerji
+7. Hafta - Güç ve Enerji
 
-7. Hafta - Kirşofun Akım ve Gerilim Yasaları
+8. Hafta - Kirşofun Akım ve Gerilim Yasaları
 
-8. Hafta - Vize Sınavı Haftası
+9. Hafta - Vize Sınavı Haftası
 
-9. Hafta - Yıldız ve Üçgen Devreler
+10. Hafta - Yıldız ve Üçgen Devreler
 
-10. Hafta - Göz Akım Analizi
+11. Hafta - Göz Akım Analizi
 
-11. Hafta - Thevenin ve Norton Teoremleri
+12. Hafta - Thevenin ve Norton Teoremleri
 
-12. Hafta - Kondansatörler ve Bobinler
+13. Hafta - Kondansatörler ve Bobinler
 
-13. Hafta - Bağımsız Kaynaklı RL, RC, RLC Devreler
+14. Hafta - Bağımsız Kaynaklı RL, RC, RLC Devreler
 
-14. Hafta - Sabit Kaynaklı RL, RC, RLC Devreler
+15. Hafta - Sabit Kaynaklı RL, RC, RLC Devreler
 
-15. Hafta - Final Sınavı Haftası
+16. Hafta - Final Sınavı Haftası
 
 ## KAYNAKLAR
 
