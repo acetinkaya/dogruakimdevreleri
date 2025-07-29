@@ -11,8 +11,7 @@ Amaç: Bu ders,
 
 ## KAYNAKLAR
 
-Doç. Dr. Hüseyin DEMİREL, 
-
+Doç. Dr. Hüseyin DEMİREL, "Temel Elektrik-Elektronik", 
 ## Dersin Verildiği Dönem ve Bilgiler
 
 2024 - 2025 Yaz Dönemi - İGÜ İstanbul Gelişim Meslek Yüksekokulu, Elektronik Teknolojisi Programı - (N.Ö. 15 Öğrenci), Dersin internet sitesi: https://gbs.gelisim.edu.tr/ders-genel-bilgiler-4-210-16530-1 
