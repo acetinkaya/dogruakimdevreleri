@@ -22,7 +22,7 @@ Amaç: Bu ders,
 
 6. Hafta - Güç ve Enerji
 
-
+7. Hafta - 
 
 ## KAYNAKLAR
 
