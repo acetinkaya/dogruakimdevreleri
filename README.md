@@ -10,7 +10,7 @@ Amaç: Bu derste elektrik akımının esaslarının uygulanması ve tüm doğru 
 
 * Temel Elektriksel Kavramları Anlama: Akım, gerilim ve direnç gibi temel elektriksel kavramları anlayarak, bu kavramların elektronik devrelerde nasıl etkileştiğini analiz edebilecektir.    
 
-
+* Elektrik devrelerinin
 
 ## HAFTALIK DERS KONULARI
 
