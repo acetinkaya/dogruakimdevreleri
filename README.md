@@ -16,6 +16,8 @@ Amaç: Bu ders,
 
 3. Hafta - PWM (Pulse-Width Modulation), Görev Döngüsü (Duty Cycle) ve ADC (Analog-to-Digital Converter)
 
+4. Hafta - OHM Yasası, Seri Direnç Devreleri ve Uygulamaları
+
 
 
 ## KAYNAKLAR
