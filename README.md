@@ -7,3 +7,5 @@ Amaç: Bu ders,
 İçerik:  
 
 ## DERSİN ÖĞRENME ÇIKTILARI
+
+## Dersin 
