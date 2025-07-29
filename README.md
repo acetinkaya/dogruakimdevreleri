@@ -8,4 +8,4 @@ Amaç: Bu ders,
 
 ## DERSİN ÖĞRENME ÇIKTILARI
 
-## Dersin 
+## Dersin Verildiği Dönem 
